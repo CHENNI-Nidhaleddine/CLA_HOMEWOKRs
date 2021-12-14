@@ -1,0 +1,9 @@
+Homework
+Given the file “student_names.txt” do the following:
+
+1-Read all of the content of the file in one variable.
+2-Write a list of random names to your file.
+3-Read the first n lines of the file.
+4-Read the last n lines of the file.
+5-Check if the name x is in the file.
+6-Write a Python program to generate 26 text files named A.txt, B.txt, and so on up to Z.txt.
